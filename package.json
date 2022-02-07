@@ -1,0 +1,28 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": "Curso inicial de cypress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estercardosotoja/curso_cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "iniciante"
+  ],
+  "author": "Ester Toja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estercardosotoja/curso_cypress/issues"
+  },
+  "homepage": "https://github.com/estercardosotoja/curso_cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
