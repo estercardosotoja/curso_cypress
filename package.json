@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/estercardosotoja/curso_cypress#readme",
   "devDependencies": {
-    "cypress": "^9.1.1"
+    "cypress": "^8.4.1"
   }
 }
